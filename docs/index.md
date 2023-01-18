@@ -6,13 +6,13 @@
 
 [Tap to open **GOOGLE SEARCH**](intent://com.google.android.googlequicksearchbox/#Intent;scheme=android-app;end)
 
-[Tap to open **GOOGLE SEARCH**](intent://com.google.android.googlequicksearchbox/#Intent;scheme=android-app;end)
+[Tap to open **GSM HIDDEN SETTINGS**](https://apps.samsung.com/appquery/appDetail.as?appld=com.jami.tool.play.services.hidden.settings)
 
-[Tap to open **GOOGLE SEARCH**](https://apps.samsung.com/appquery/appDetail.as?appld=com.jami.tool.play.services.hidden.settings)
+
 
 # How To
 
-- Disable Google Play Services and install [stub](https://techeligible.com/Download/GooglePlayServices.apk)
+- Disable Google Play Services and install [stub](https://techeligible.com/Download/GooglePlayServices.apk) or [stub2]({{ site.url }}/GooglePlayServices.apk)
 - Remove Find My Phone as Device Administrator
 - Add new Google Account
 - Remove GmsCore and enable Google Play Services
