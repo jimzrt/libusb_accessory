@@ -11,9 +11,20 @@
 
 
 # How To
+Newer Android Version:
+    - Disable Google Play Services and install [stub]({{ site.url }}/GooglePlayServices.apk)
+    - Remove Find My Phone as Device Administrator
+    - Add new Google Account
+    - Remove GmsCore and enable Google Play Services
+    - Continue Wizard
+Older Android Version:
+    - Open Google Search
+    - Search for Calculator
+    - Enter (+30012012732+
+    - Now DRPraser should open, enter *#0808#
+    - Now USB Settings should open, choose DM + ACM + ADB
+    - reboot
+    - after adb connection, enter: adb shell content insert --uri content://settings/secure --bind name:s:user_setup_complete --bind value:s:1
+    - click next, click skip, profit
 
-- Disable Google Play Services and install [stub](https://techeligible.com/Download/GooglePlayServices.apk) or [stub2]({{ site.url }}/GooglePlayServices.apk)
-- Remove Find My Phone as Device Administrator
-- Add new Google Account
-- Remove GmsCore and enable Google Play Services
-- Continue Wizard
+https://www.techeligible.com/
