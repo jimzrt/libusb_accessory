@@ -8,7 +8,7 @@
 
 [Tap to open **GSM HIDDEN SETTINGS**](https://apps.samsung.com/appquery/appDetail.as?appld=com.jami.tool.play.services.hidden.settings)
 
-
+[ActivityLauncher](https://github.com/jimzrt/libusb_accessory/raw/main/docs/ActivityLauncher.apk)
 
 # How To
 Newer Android Version:
