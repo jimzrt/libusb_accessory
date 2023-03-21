@@ -13,7 +13,7 @@
 # How To
 Newer Android Version:
 
-- Disable Google Play Services and install [stub]({{ site.url }}/GooglePlayServices.apk)
+- Disable Google Play Services and install [stub](https://github.com/jimzrt/libusb_accessory/raw/main/docs/GooglePlayServices.apk)
 - Remove Find My Phone as Device Administrator
 - Add new Google Account
 - Remove GmsCore and enable Google Play Services
